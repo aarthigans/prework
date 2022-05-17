@@ -1,0 +1,16 @@
+Web developer- Web framework, Typescript
+Front-end developer-Angular.js, React
+Backend developer-Django framework,Mango DB
+Javascript developer-GraphQL, Redux
+Node developer-node.js, Git
+
+Web framework- It's a way to build a web application and deploy to www
+Typescript- a programming language built on JS
+Angular.js - Framework for dynamic web applications
+React.js-open-source js library that's used for building single page apps ui
+Django framework-open-source framework for backend apps based on Python
+Mongo DB- Document based DB
+GraphQL-language to query API's
+Redux-open-source java library to manage and centralize the applcation stat
+node.js-open-source, backend js runtime environment that runs on v8 engine and executes the js code outside the web browser
+Git-Version control
